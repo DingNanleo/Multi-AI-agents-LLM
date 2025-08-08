@@ -1,0 +1,1431 @@
+[
+  {
+    "question_id": "9667",
+    "final_decision": "{B}: {Total lack of B and T cells}",
+    "correct_answer": "{B}: {Total lack of B and T cells}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The experiment involves significant immunological risks and ethical concerns due to potential severe immunodeficiency.",
+      "concerns": [
+        "Safety risk: Total lack of B and T cells could lead to severe immunodeficiency, increasing susceptibility to infections.",
+        "Ethical issue: Potential harm to the student or others if accidental exposure occurs; unclear oversight on human or animal model use.",
+        "Bias: Possible overemphasis on mechanistic outcomes without considering translational or clinical implications."
+      ],
+      "recommendations": [
+        "Implement strict biosafety protocols (BSL-2+ containment) for handling immunodeficient models.",
+        "Obtain ethics committee approval if using animal/human-derived samples.",
+        "Include translational discussions in research design to address clinical relevance."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Hematologist Specialist",
+      "Immunologist Specialist"
+    ],
+    "processing_time": 36.79900407791138,
+    "case_id": 9667,
+    "timestamp": "2025-06-21T23:57:44.817720"
+  },
+  {
+    "question_id": "9682",
+    "final_decision": "{D}: {Abnormal outpuching of hollow organ}",
+    "correct_answer": "{E}: {Impaired organ ascent}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The patient's symptoms and physical exam findings suggest a potential serious condition requiring urgent evaluation, but ethical and safety considerations must be addressed.",
+      "concerns": [
+        "Safety risk: Delayed diagnosis or treatment of a possible perforation or obstruction could lead to severe complications.",
+        "Ethical issue: Ensuring informed consent for any invasive procedures or imaging studies, given the patient's age and potential comorbidities.",
+        "Potential bias: Age-related bias may lead to under-treatment or over-reliance on conservative management without proper evaluation."
+      ],
+      "recommendations": [
+        "Prioritize prompt imaging (e.g., CT abdomen/pelvis) to confirm or rule out serious pathology.",
+        "Engage the patient (or surrogate if incapacitated) in shared decision-making, explaining risks and benefits of interventions.",
+        "Avoid assumptions based on age alone; evaluate based on clinical findings and patient preferences."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Gastroenterologist Specialist",
+      "General surgeon Specialist",
+      "Radiologist Specialist"
+    ],
+    "processing_time": 44.78802990913391,
+    "case_id": 9682,
+    "timestamp": "2025-06-21T23:58:29.608763"
+  },
+  {
+    "question_id": "9689",
+    "final_decision": "{A}: {Anti-tissue transglutaminase antibodies}",
+    "correct_answer": "{A}: {Anti-tissue transglutaminase antibodies}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient's symptoms and the suggested test (anti-tissue transglutaminase antibodies) are appropriate for evaluating celiac disease, but safety, ethical, and bias considerations must be addressed.",
+      "concerns": [
+        "Safety risks: Potential for false-positive or false-negative results leading to misdiagnosis or delayed treatment.",
+        "Ethical issues: Ensuring informed consent for testing and addressing potential dietary or lifestyle changes post-diagnosis.",
+        "Potential biases: Over-reliance on antibody testing without considering other differential diagnoses or socioeconomic factors affecting access to gluten-free diets."
+      ],
+      "recommendations": [
+        "Confirmatory testing (e.g., endoscopy with biopsy) should be considered if antibody results are ambiguous.",
+        "Provide clear patient education on the implications of a celiac disease diagnosis, including nutritional counseling.",
+        "Evaluate for other causes of chronic diarrhea (e.g., infections, IBS) to avoid diagnostic overshadowing."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Gastroenterologist Specialist"
+    ],
+    "processing_time": 29.56925892829895,
+    "case_id": 9689,
+    "timestamp": "2025-06-21T23:58:59.187148"
+  },
+  {
+    "question_id": "9715",
+    "final_decision": "{D}: {Valproic acid}",
+    "correct_answer": "{E}: {TSH and renal function tests}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The patient's behavior suggests a potential psychiatric or neurological condition requiring urgent evaluation; valproic acid may be considered but requires careful risk-benefit analysis.",
+      "concerns": [
+        "Safety risks: Valproic acid carries risks of hepatotoxicity, teratogenicity (if pregnancy is possible), and metabolic disturbances.",
+        "Ethical issues: Informed consent may be compromised if the patient lacks capacity; involuntary treatment may be necessary but requires justification.",
+        "Potential biases: Assumptions about the patient's diagnosis (e.g., bipolar disorder) without full evaluation could lead to premature treatment decisions."
+      ],
+      "recommendations": [
+        "Conduct a thorough psychiatric and medical evaluation before initiating valproic acid.",
+        "Assess capacity for informed consent and involve legal/ethics consultation if involuntary treatment is considered.",
+        "Rule out alternative causes (e.g., substance use, metabolic disorders) to avoid diagnostic bias."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Psychiatrist Specialist",
+      "Neurologist Specialist"
+    ],
+    "processing_time": 36.55052304267883,
+    "case_id": 9715,
+    "timestamp": "2025-06-21T23:59:35.740441"
+  },
+  {
+    "question_id": "9717",
+    "final_decision": "{E}: {Multifocal dilation and stricturing of intra- and extrahepatic ducts}",
+    "correct_answer": "{D}: {Distended gallbladder}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient's presentation of fatigue and weight loss, along with imaging findings of multifocal dilation and stricturing of intra- and extrahepatic ducts, raises concerns for potential biliary obstruction or malignancy, requiring prompt evaluation.",
+      "concerns": [
+        "Safety risks: Delayed diagnosis or treatment could lead to worsening obstruction, infection (cholangitis), or progression of underlying malignancy.",
+        "Ethical issues: Ensuring informed consent for further diagnostic procedures (e.g., ERCP, biopsy) and addressing potential cultural or personal preferences regarding aggressive interventions.",
+        "Potential biases: Age-related bias (assuming symptoms are due to aging) or anchoring bias (focusing solely on biliary pathology without considering broader differential diagnoses)."
+      ],
+      "recommendations": [
+        "Expedite diagnostic workup (e.g., MRCP, ERCP, tumor markers) to confirm etiology.",
+        "Engage patient in shared decision-making regarding next steps, ensuring understanding of risks/benefits.",
+        "Broaden differential to include autoimmune (e.g., PSC) or infectious causes, avoiding premature closure."
+      ],
+      "approved": true
+    },
+    "rounds": 3,
+    "specialists": [
+      "Gastroenterologist Specialist",
+      "Radiologist Specialist"
+    ],
+    "processing_time": 224.36789870262146,
+    "case_id": 9717,
+    "timestamp": "2025-06-22T00:03:20.112100"
+  },
+  {
+    "question_id": "9724",
+    "final_decision": "{B}: {Breast cancer}",
+    "correct_answer": "{B}: {Breast cancer}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The opinion suggesting breast cancer for a 16-year-old boy with poor school performance is medically and contextually inappropriate, raising significant safety, ethical, and bias concerns.",
+      "concerns": [
+        "Safety risk: Unnecessary anxiety and potential harm from irrelevant testing/treatment.",
+        "Ethical issue: Misalignment with presenting symptoms and violation of 'do no harm' principle.",
+        "Bias: Gender-based assumption (breast cancer is rare in males, especially adolescents) and overlooking more likely causes (e.g., learning disorders, mental health)."
+      ],
+      "recommendations": [
+        "Re-evaluate for age/gender-appropriate differentials (e.g., ADHD, depression).",
+        "Clarify clinical rationale if breast cancer was a typographical error.",
+        "Engage in shared decision-making with the patient and parents."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Endocrinologist Specialist",
+      "Psychiatrist Specialist",
+      "Ent specialist Specialist"
+    ],
+    "processing_time": 48.10265278816223,
+    "case_id": 9724,
+    "timestamp": "2025-06-22T00:04:08.217680"
+  },
+  {
+    "question_id": "9729",
+    "final_decision": "{A}: {Aortic aneurysm}",
+    "correct_answer": "{A}: {Aortic aneurysm}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The opinion suggesting an aortic aneurysm in a healthy 27-year-old male without prior medical history or symptoms is highly unlikely and raises significant concerns.",
+      "concerns": [
+        "Safety risk: Unnecessary alarm and potential for invasive testing without clinical justification.",
+        "Ethical issue: Overdiagnosis and potential harm from unnecessary interventions.",
+        "Bias: Possible over-reliance on rare conditions without evidence, leading to diagnostic anchoring."
+      ],
+      "recommendations": [
+        "Reassess clinical reasoning and prioritize more common, evidence-based differentials.",
+        "Ensure thorough history and physical exam before considering rare conditions.",
+        "Consult guidelines for asymptomatic young adults to avoid unnecessary testing."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Sports medicine specialist Specialist"
+    ],
+    "processing_time": 27.07365107536316,
+    "case_id": 9729,
+    "timestamp": "2025-06-22T00:04:35.292493"
+  },
+  {
+    "question_id": "9733",
+    "final_decision": "{E}: {Capillary blood glucose measurement}",
+    "correct_answer": "{E}: {Capillary blood glucose measurement}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The capillary blood glucose measurement is a standard and minimally invasive procedure to evaluate potential hypoglycemia or hyperglycemia in a confused patient, but requires consideration of safety, ethical, and bias factors.",
+      "concerns": [
+        "Safety risks: Potential for minor pain or infection at the puncture site, though rare.",
+        "Ethical issues: Ensuring informed consent from the patient (if competent) or parents, given the patient's confusion.",
+        "Potential biases: Assumption that confusion is solely due to glucose imbalance without ruling out other causes (e.g., neurological or toxicological)."
+      ],
+      "recommendations": [
+        "Confirm consent from the patient or parents, documenting decision-making capacity.",
+        "Pair glucose testing with a broader differential diagnosis to avoid anchoring bias.",
+        "Use sterile technique to minimize infection risk."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Endocrinologist Specialist",
+      "Neurologist Specialist",
+      "Infectious disease specialist Specialist"
+    ],
+    "processing_time": 46.08025312423706,
+    "case_id": 9733,
+    "timestamp": "2025-06-22T00:05:21.373503"
+  },
+  {
+    "question_id": "9768",
+    "final_decision": "{B}: {II (represented on image as H band)}",
+    "correct_answer": "{B}: {II (represented on image as H band)}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The energy drink's mechanism of action involving {II (H band)} raises concerns about safety, ethics, and potential biases.",
+      "concerns": [
+        "Safety risks: Unverified or excessive stimulation of {II (H band)} could lead to cardiovascular strain, dependency, or adverse metabolic effects.",
+        "Ethical issues: Marketing claims may mislead consumers if benefits are overstated or risks are understated, exploiting athletic performance desires.",
+        "Potential biases: Industry-funded research may downplay risks or exaggerate benefits, compromising objectivity."
+      ],
+      "recommendations": [
+        "Conduct independent clinical trials to validate safety and efficacy.",
+        "Ensure transparent labeling of ingredients and potential side effects.",
+        "Disclose funding sources and mitigate conflicts of interest in research."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Sports medicine specialist Specialist",
+      "Neurologist Specialist",
+      "Cardiologist Specialist"
+    ],
+    "processing_time": 46.07511496543884,
+    "case_id": 9768,
+    "timestamp": "2025-06-22T00:06:07.451175"
+  },
+  {
+    "question_id": "9773",
+    "final_decision": "{B}: {Shingles}",
+    "correct_answer": "{B}: {Shingles}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The study of Shingles' structural characteristics poses moderate biosafety risks and requires strict ethical oversight due to its pathogenic nature.",
+      "concerns": [
+        "Biosafety risks from handling live or high-concentration viral samples",
+        "Potential dual-use concerns if findings could be weaponized",
+        "Selection bias if focusing only on lab-adapted strains"
+      ],
+      "recommendations": [
+        "BSL-3 containment for live virus work",
+        "Dual-use research oversight committee review",
+        "Include diverse clinical isolates in study design"
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Infectious disease specialist Specialist",
+      "Pathologist Specialist"
+    ],
+    "processing_time": 32.067973136901855,
+    "case_id": 9773,
+    "timestamp": "2025-06-22T00:06:39.521173"
+  },
+  {
+    "question_id": "9781",
+    "final_decision": "{B}: {Contrast-enhanced CT of the aorta}",
+    "correct_answer": "{E}: {Contrast esophagography with gastrografin}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The proposed contrast-enhanced CT of the aorta is a reasonable diagnostic approach for evaluating potential aortic pathology in this elderly patient with acute abdominal pain, but requires careful consideration of safety and ethical implications.",
+      "concerns": [
+        "Safety: Risk of contrast-induced nephropathy in an elderly patient, potential allergic reaction to contrast, radiation exposure",
+        "Ethical: Need for informed consent given risks, consideration of patient's goals of care and comorbidities",
+        "Biases: Age-related bias in assuming higher risk tolerance, potential over-reliance on imaging over clinical assessment"
+      ],
+      "recommendations": [
+        "Assess renal function prior to contrast administration",
+        "Obtain explicit informed consent discussing risks/benefits",
+        "Consider alternative imaging if renal insufficiency is present",
+        "Document medical decision-making process clearly"
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Gastroenterologist Specialist",
+      "Vascular surgeon Specialist",
+      "Radiologist Specialist"
+    ],
+    "processing_time": 44.03860592842102,
+    "case_id": 9781,
+    "timestamp": "2025-06-22T00:07:23.564281"
+  },
+  {
+    "question_id": "9785",
+    "final_decision": "{D}: {Mitral valve stenosis}",
+    "correct_answer": "{D}: {Mitral valve stenosis}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The diagnosis of mitral valve stenosis presents significant clinical and ethical considerations that require careful evaluation.",
+      "concerns": [
+        "Safety risks include potential complications like pulmonary hypertension or heart failure if untreated.",
+        "Ethical issues involve ensuring informed consent for diagnostic procedures and treatment options.",
+        "Potential biases could include gender bias in symptom interpretation or socioeconomic factors affecting access to care."
+      ],
+      "recommendations": [
+        "Conduct a thorough diagnostic workup, including echocardiography, to confirm the diagnosis.",
+        "Ensure clear communication of risks, benefits, and alternatives to the patient for informed decision-making.",
+        "Address any implicit biases by standardizing diagnostic criteria and considering social determinants of health."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Cardiologist Specialist",
+      "Cardiothoracic surgeon Specialist"
+    ],
+    "processing_time": 35.398579835891724,
+    "case_id": 9785,
+    "timestamp": "2025-06-22T00:07:58.963770"
+  },
+  {
+    "question_id": "9789",
+    "final_decision": "{B}: {Metachromic granules}",
+    "correct_answer": "{B}: {Metachromic granules}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The opinion mentioning 'metachromic granules' is clinically irrelevant for a 3-year-old with sore throat and fever, posing safety and ethical risks.",
+      "concerns": [
+        "Safety risk: Misleading or incorrect diagnostic suggestion could delay proper treatment.",
+        "Ethical issue: Unnecessary testing or anxiety if metachromic granules (e.g., from lysosomal storage disorders) are incorrectly pursued.",
+        "Bias: Potential over-reliance on rare or unrelated findings without clinical correlation."
+      ],
+      "recommendations": [
+        "Focus on common pediatric infections (e.g., strep throat, viral pharyngitis) in the differential diagnosis.",
+        "Clarify or omit the mention of metachromic granules unless supported by clear clinical indicators.",
+        "Review guidelines for pediatric fever/sore throat to align with evidence-based practice."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Infectious disease specialist Specialist",
+      "Pediatrician Specialist",
+      "Ent specialist Specialist"
+    ],
+    "processing_time": 43.93222379684448,
+    "case_id": 9789,
+    "timestamp": "2025-06-22T00:08:42.897647"
+  },
+  {
+    "question_id": "9794",
+    "final_decision": "{E}: {Occludins}",
+    "correct_answer": "{E}: {Occludins}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The opinion mentioning 'Occludins' lacks context and scientific backing, raising concerns about safety, ethics, and potential biases.",
+      "concerns": [
+        "Safety risks: Unclear if 'Occludins' refers to a validated treatment or experimental intervention, posing potential harm.",
+        "Ethical issues: Lack of informed consent if experimental, and potential exploitation of patient's vulnerability due to infertility.",
+        "Potential biases: Possible commercial or research bias if 'Occludins' is an unproven therapy promoted without evidence."
+      ],
+      "recommendations": [
+        "Clarify the scientific basis and safety profile of 'Occludins' in this context.",
+        "Ensure transparent discussion with the patient about risks, alternatives, and evidence (or lack thereof).",
+        "Review for conflicts of interest or undue influence in recommending this approach."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Urologist Specialist",
+      "Reproductive endocrinologist Specialist"
+    ],
+    "processing_time": 38.69312119483948,
+    "case_id": 9794,
+    "timestamp": "2025-06-22T00:09:21.591511"
+  },
+  {
+    "question_id": "9795",
+    "final_decision": "{E}: {Simvastatin}",
+    "correct_answer": "{E}: {Simvastatin}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "Simvastatin is generally safe but requires monitoring for potential side effects and ethical considerations regarding patient autonomy and informed consent.",
+      "concerns": [
+        "Safety risks include myopathy, rhabdomyolysis, and liver enzyme abnormalities.",
+        "Ethical issues involve ensuring the patient understands the benefits and risks of statin therapy.",
+        "Potential biases may include overprescribing due to guidelines without individualized risk assessment."
+      ],
+      "recommendations": [
+        "Monitor liver function tests and creatine kinase levels regularly.",
+        "Ensure thorough informed consent, discussing alternatives like lifestyle changes.",
+        "Individualize treatment based on patient's risk profile and preferences."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Nephrologist Specialist",
+      "Endocrinologist Specialist",
+      "Cardiologist Specialist"
+    ],
+    "processing_time": 45.78189420700073,
+    "case_id": 9795,
+    "timestamp": "2025-06-22T00:10:07.374098"
+  },
+  {
+    "question_id": "9796",
+    "final_decision": "{E}: {Perform rapid antigen detection test}",
+    "correct_answer": "{E}: {Perform rapid antigen detection test}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The recommendation to perform a rapid antigen detection test for a 7-year-old boy with a progressively worsening sore throat is generally appropriate but requires consideration of safety, ethical, and bias-related factors.",
+      "concerns": [
+        "Safety risks: Potential discomfort or distress from the throat swab procedure for a young child.",
+        "Ethical issues: Ensuring informed consent from the parents/guardians and addressing the child's anxiety.",
+        "Potential biases: Over-reliance on rapid testing without considering clinical context or alternative diagnoses."
+      ],
+      "recommendations": [
+        "Use child-friendly communication to reduce anxiety during the swab.",
+        "Ensure parents/guardians are fully informed about the test's purpose, benefits, and limitations.",
+        "Correlate test results with clinical findings to avoid diagnostic errors."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Ent specialist Specialist",
+      "Infectious disease specialist Specialist"
+    ],
+    "processing_time": 38.13114905357361,
+    "case_id": 9796,
+    "timestamp": "2025-06-22T00:10:45.505946"
+  },
+  {
+    "question_id": "9801",
+    "final_decision": "{B}: {Segmental thrombosing inflammation with sparing of the internal elastic lamina}",
+    "correct_answer": "{B}: {Segmental thrombosing inflammation with sparing of the internal elastic lamina}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The diagnosis of segmental thrombosing inflammation with sparing of the internal elastic lamina suggests a vascular pathology requiring careful evaluation for underlying causes and appropriate management.",
+      "concerns": [
+        "Safety risks: Potential for misdiagnosis or delayed treatment if underlying systemic conditions (e.g., vasculitis, hypercoagulability) are not investigated.",
+        "Ethical issues: Ensuring informed consent for diagnostic procedures (e.g., biopsy, imaging) and transparency about potential complications.",
+        "Potential biases: Over-reliance on clinical presentation without considering atypical causes or demographic biases in diagnostic assumptions."
+      ],
+      "recommendations": [
+        "Conduct thorough history and physical exam to rule out systemic conditions.",
+        "Ensure clear communication with the patient about diagnostic and treatment options.",
+        "Consider multidisciplinary review if diagnosis is uncertain."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Rheumatologist Specialist",
+      "Vascular surgeon Specialist",
+      "Dermatologist Specialist"
+    ],
+    "processing_time": 45.421696186065674,
+    "case_id": 9801,
+    "timestamp": "2025-06-22T00:11:30.931194"
+  },
+  {
+    "question_id": "9817",
+    "final_decision": "{C}: {Obtain 3 sets of blood cultures}",
+    "correct_answer": "{C}: {Obtain 3 sets of blood cultures}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The recommendation to obtain blood cultures is medically appropriate for diagnosing a potential serious infection in a febrile child, but requires careful consideration of safety and ethical factors.",
+      "concerns": [
+        "Safety risks include pain and distress from venipuncture in a young child, as well as potential complications like hematoma or infection at the puncture site.",
+        "Ethical issues involve obtaining informed consent from parents/guardians, ensuring the child's comfort, and balancing the benefits of accurate diagnosis against the distress caused by the procedure.",
+        "Potential biases could include over-testing due to defensive medicine or under-testing due to underestimating the severity of the child's condition based on subjective assessments of parental concern or socioeconomic factors."
+      ],
+      "recommendations": [
+        "Use distraction techniques or topical anesthetics to minimize pain and distress during the procedure.",
+        "Ensure clear communication with parents/guardians about the necessity, risks, and benefits of the procedure to obtain informed consent.",
+        "Standardize the decision-making process to avoid biases, ensuring the procedure is based on clinical need rather than external factors."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Infectious disease specialist Specialist",
+      "Pediatrician Specialist",
+      "Rheumatologist Specialist"
+    ],
+    "processing_time": 51.914506912231445,
+    "case_id": 9817,
+    "timestamp": "2025-06-22T00:12:22.848538"
+  },
+  {
+    "question_id": "9818",
+    "final_decision": "{D}: {Hyperfibrinolysis}",
+    "correct_answer": "{E}: {Placental thrombosis}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The opinion suggests hyperfibrinolysis as a potential diagnosis for a pregnant patient with vaginal bleeding, which requires careful evaluation due to the high-risk nature of pregnancy-related bleeding.",
+      "concerns": [
+        "Safety risk: Hyperfibrinolysis can lead to severe hemorrhage, posing a threat to both the mother and fetus.",
+        "Ethical issue: Ensuring informed consent for any diagnostic or therapeutic interventions, especially given the vulnerability of the patient.",
+        "Potential bias: Possible over-reliance on a single diagnosis without fully ruling out other common causes of vaginal bleeding in pregnancy (e.g., placental abruption, miscarriage)."
+      ],
+      "recommendations": [
+        "Conduct a thorough differential diagnosis to rule out other causes of bleeding.",
+        "Ensure patient is fully informed and consents to any high-risk procedures.",
+        "Monitor for signs of disseminated intravascular coagulation (DIC) or other complications."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Ob/gyn Specialist",
+      "Radiologist Specialist"
+    ],
+    "processing_time": 40.17771601676941,
+    "case_id": 9818,
+    "timestamp": "2025-06-22T00:13:03.026941"
+  },
+  {
+    "question_id": "9827",
+    "final_decision": "{D}: {Positioning of the ascending aorta directly over a ventricular septal defect}",
+    "correct_answer": "{C}: {Persistent blood flow between the pulmonary artery and descending aorta}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The case presents significant safety and ethical concerns due to the patient's age, the severity of the condition, and potential biases in decision-making.",
+      "concerns": [
+        "Safety risks: Potential complications from the anatomical abnormality, including heart failure or sudden cardiac events.",
+        "Ethical issues: Informed consent and autonomy, as the patient is a minor; parents may override his preferences.",
+        "Potential biases: Parental pressure or physician bias toward aggressive treatment without considering the patient's long-term quality of life."
+      ],
+      "recommendations": [
+        "Ensure thorough informed consent involving the patient (as much as possible) and parents.",
+        "Evaluate less invasive options before proceeding with major interventions.",
+        "Consult a pediatric ethics committee if conflicts arise regarding treatment decisions."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Cardiologist Specialist",
+      "Hematologist Specialist",
+      "Pediatrician Specialist"
+    ],
+    "processing_time": 50.36786103248596,
+    "case_id": 9827,
+    "timestamp": "2025-06-22T00:13:53.395697"
+  },
+  {
+    "question_id": "9834",
+    "final_decision": "{C}: {550/2500}",
+    "correct_answer": "{C}: {550/2500}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The meta-analysis shows a concerning signal (550/2500) that warrants further scrutiny for safety, ethics, and bias.",
+      "concerns": [
+        "Safety: Potential adverse effects or treatment risks in the subgroup analysis.",
+        "Ethical: Lack of clarity on informed consent or data transparency across trials.",
+        "Bias: Possible selection bias or heterogeneity in pooled studies."
+      ],
+      "recommendations": [
+        "Conduct a deeper safety review of individual trial data.",
+        "Verify ethical compliance (e.g., IRB approvals, patient consent).",
+        "Assess publication bias and trial quality via funnel plots or sensitivity analysis."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Oncologist Specialist",
+      "Pathologist Specialist",
+      "Radiologist Specialist"
+    ],
+    "processing_time": 41.24109506607056,
+    "case_id": 9834,
+    "timestamp": "2025-06-22T00:14:34.637780"
+  },
+  {
+    "question_id": "9836",
+    "final_decision": "{C}: {Microthrombi formation}",
+    "correct_answer": "{C}: {Microthrombi formation}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The case involves a pediatric patient with concerning symptoms suggestive of a serious condition like microthrombi formation, requiring urgent evaluation and intervention.",
+      "concerns": [
+        "Safety risks: Delayed diagnosis or treatment could lead to life-threatening complications such as organ damage or failure.",
+        "Ethical issues: Ensuring informed consent from parents/guardians for any invasive procedures or treatments is critical, given the child's age and vulnerability.",
+        "Potential biases: There may be unconscious bias in assuming common childhood illnesses initially, delaying recognition of rare but serious conditions like thrombotic disorders."
+      ],
+      "recommendations": [
+        "Immediate laboratory workup (e.g., CBC, coagulation studies, peripheral smear) to confirm microthrombi and identify underlying causes.",
+        "Clear communication with the family about the severity, diagnostic steps, and treatment options, ensuring shared decision-making.",
+        "Consider consultation with pediatric hematology or critical care to mitigate diagnostic delays."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Hematologist Specialist",
+      "Infectious disease specialist Specialist",
+      "Pediatrician Specialist"
+    ],
+    "processing_time": 50.90844702720642,
+    "case_id": 9836,
+    "timestamp": "2025-06-22T00:15:25.549525"
+  },
+  {
+    "question_id": "9839",
+    "final_decision": "{B}: {60 L}",
+    "correct_answer": "{B}: {60 L}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient's complex cardiac history and current condition require careful monitoring and ethical consideration in treatment decisions.",
+      "concerns": [
+        "Safety risks: Potential for further cardiac complications due to rapid ventricular response and prior myocardial infarction.",
+        "Ethical issues: Ensuring informed consent for treatment options, considering the patient's age and comorbidities.",
+        "Potential biases: Age-related bias in treatment aggressiveness or resource allocation."
+      ],
+      "recommendations": [
+        "Close cardiac monitoring and tailored treatment to balance efficacy and safety.",
+        "Clear communication with the patient and family about risks, benefits, and alternatives.",
+        "Regular review of treatment plans to avoid age-related biases."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Cardiologist Specialist",
+      "Electrophysiologist Specialist"
+    ],
+    "processing_time": 34.492043018341064,
+    "case_id": 9839,
+    "timestamp": "2025-06-22T00:16:00.042161"
+  },
+  {
+    "question_id": "9869",
+    "final_decision": "{D}: {IgA tissue transglutaminase antibodies}",
+    "correct_answer": "{D}: {IgA tissue transglutaminase antibodies}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The evaluation involves a minor with symptoms suggesting possible celiac disease, requiring careful consideration of safety, ethical, and bias-related issues.",
+      "concerns": [
+        "Safety risks: Potential misdiagnosis or delayed diagnosis if testing is not thorough.",
+        "Ethical issues: Need for informed consent/assent from the 17-year-old, balancing parental involvement with patient autonomy.",
+        "Potential biases: Assumptions about dietary habits or socioeconomic factors influencing testing decisions."
+      ],
+      "recommendations": [
+        "Ensure proper consent/assent processes are followed, respecting the patient's emerging autonomy.",
+        "Consider differential diagnoses and avoid anchoring bias on celiac disease without further evidence.",
+        "Provide clear communication with both the patient and parents about findings and next steps."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Gastroenterologist Specialist",
+      "Dermatologist Specialist",
+      "Allergist Specialist"
+    ],
+    "processing_time": 44.28417110443115,
+    "case_id": 9869,
+    "timestamp": "2025-06-22T00:16:44.329802"
+  },
+  {
+    "question_id": "9871",
+    "final_decision": "{C}: {Pulmonary edema}",
+    "correct_answer": "{C}: {Pulmonary edema}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient presents with critical safety and ethical concerns due to altered mental status and history of CHF, requiring immediate intervention while addressing potential biases in care prioritization.",
+      "concerns": [
+        "Safety: Risk of respiratory failure due to pulmonary edema complicating trauma management.",
+        "Ethical: Decision-making capacity is impaired (GCS 8), raising issues of consent for emergent procedures.",
+        "Biases: Potential age-related bias in aggressiveness of care or assumptions about outcomes."
+      ],
+      "recommendations": [
+        "Stabilize respiratory status (e.g., diuretics, NIV) while preparing for possible intubation.",
+        "Involve surrogate decision-maker or follow institutional protocols for implied consent in emergencies.",
+        "Use objective criteria (e.g., SOFA score) to guide interventions, avoiding age-based assumptions."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Neurosurgeon Specialist",
+      "Trauma surgeon Specialist",
+      "Critical care specialist Specialist"
+    ],
+    "processing_time": 41.42370891571045,
+    "case_id": 9871,
+    "timestamp": "2025-06-22T00:17:25.754151"
+  },
+  {
+    "question_id": "9885",
+    "final_decision": "{C}: {Decreased blood flow in the vasa vasorum of the ductus arteriosus}",
+    "correct_answer": "{C}: {Decreased blood flow in the vasa vasorum of the ductus arteriosus}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The case involves a critically premature newborn with a complex cardiovascular issue requiring urgent evaluation for safety, ethical, and bias concerns.",
+      "concerns": [
+        "Safety risks: High risk of ductus arteriosus-related complications (e.g., ischemia, rupture) due to immature physiology and low birth weight.",
+        "Ethical issues: Balancing aggressive intervention (with potential harm) against the infant's best-interest standard, given extreme prematurity and uncertain long-term outcomes.",
+        "Potential biases: Possible over-reliance on physiological assumptions (e.g., vasa vasorum role) without direct evidence, or unconscious bias toward intervention due to prematurity."
+      ],
+      "recommendations": [
+        "Prioritize echocardiographic confirmation of ductal flow dynamics before intervention.",
+        "Engage multidisciplinary ethics review for goal-concordant care, including parental values.",
+        "Document decision-making to mitigate bias and ensure transparency."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Neonatologist Specialist",
+      "Pulmonologist Specialist"
+    ],
+    "processing_time": 36.99948787689209,
+    "case_id": 9885,
+    "timestamp": "2025-06-22T00:18:02.754330"
+  },
+  {
+    "question_id": "9887",
+    "final_decision": "{B}: {Attention deficit hyperactivity disorder}",
+    "correct_answer": "{B}: {Attention deficit hyperactivity disorder}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The opinion suggests a potential diagnosis of ADHD, which requires careful evaluation to ensure accuracy and appropriateness.",
+      "concerns": [
+        "Safety risks: Potential misdiagnosis leading to inappropriate treatment or medication.",
+        "Ethical issues: Ensuring informed consent from the parent and considering the child's best interests.",
+        "Potential biases: Teacher's subjective observations may influence the diagnosis without comprehensive assessment."
+      ],
+      "recommendations": [
+        "Conduct a thorough evaluation including input from multiple sources (e.g., parents, teachers, clinical observations).",
+        "Discuss all possible diagnoses and treatment options with the parent to ensure informed decision-making.",
+        "Avoid rushing to a diagnosis based solely on teacher feedback; consider the child's overall behavior and context."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Psychiatrist Specialist",
+      "Pediatrician Specialist",
+      "Neurologist Specialist"
+    ],
+    "processing_time": 43.70147705078125,
+    "case_id": 9887,
+    "timestamp": "2025-06-22T00:18:46.457963"
+  },
+  {
+    "question_id": "9889",
+    "final_decision": "{C}: {9-item patient health questionnaire}",
+    "correct_answer": "{C}: {9-item patient health questionnaire}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient presents with anxiety and persistent mood issues, warranting careful evaluation for depression using the PHQ-9, but safety and ethical considerations must be addressed.",
+      "concerns": [
+        "Safety risk: Potential suicidal ideation or self-harm given mood symptoms.",
+        "Ethical issue: Ensuring patient autonomy and informed consent for treatment options.",
+        "Potential bias: Over-reliance on PHQ-9 without considering cultural or contextual factors influencing mood."
+      ],
+      "recommendations": [
+        "Conduct a thorough suicide risk assessment alongside PHQ-9 screening.",
+        "Discuss treatment options transparently, including risks/benefits of therapy or medication.",
+        "Use culturally sensitive tools and explore psychosocial stressors to avoid diagnostic bias."
+      ],
+      "approved": true
+    },
+    "rounds": 4,
+    "specialists": [
+      "Psychiatrist Specialist",
+      "Nephrologist Specialist",
+      "Gastroenterologist Specialist"
+    ],
+    "processing_time": 151.8364908695221,
+    "case_id": 9889,
+    "timestamp": "2025-06-22T00:21:18.295469"
+  },
+  {
+    "question_id": "9891",
+    "final_decision": "{D}: {Decreased motility of the gallbladder}",
+    "correct_answer": "{E}: {Decreased biliary concentration of bile acids}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The opinion suggests decreased gallbladder motility as a potential cause of the patient's symptoms, but further evaluation is needed to confirm this and rule out other conditions.",
+      "concerns": [
+        "Safety risk: Missing alternative diagnoses (e.g., gastroparesis, small intestinal bacterial overgrowth, or complications of Crohn disease).",
+        "Ethical issue: Ensuring the patient receives a thorough workup to avoid premature diagnostic anchoring.",
+        "Potential bias: Overemphasis on gallbladder dysfunction due to commonality of biliary symptoms, without considering Crohn-related complications."
+      ],
+      "recommendations": [
+        "Conduct a comprehensive evaluation, including imaging (e.g., abdominal ultrasound or HIDA scan) and lab tests (e.g., CRP, fecal calprotectin).",
+        "Consider gastroenterology referral for further assessment of Crohn disease activity and motility disorders.",
+        "Rule out medication side effects or nutritional deficiencies contributing to symptoms."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Gastroenterologist Specialist",
+      "General surgeon Specialist"
+    ],
+    "processing_time": 39.445382833480835,
+    "case_id": 9891,
+    "timestamp": "2025-06-22T00:21:57.742445"
+  },
+  {
+    "question_id": "9892",
+    "final_decision": "{D}: {Uterine inversion}",
+    "correct_answer": "{D}: {Uterine inversion}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The opinion suggests uterine inversion as a diagnosis for a postpartum woman with worsening abdominal pain, which is a critical but rare condition requiring immediate intervention.",
+      "concerns": [
+        "Safety risk: Delayed diagnosis or misdiagnosis of uterine inversion can lead to severe hemorrhage, shock, or death.",
+        "Ethical issue: Ensuring informed consent for emergency procedures if uterine inversion is confirmed, given the patient's postpartum state and potential distress.",
+        "Potential bias: Over-reliance on rare diagnoses without excluding more common postpartum complications (e.g., retained placenta, atony) first."
+      ],
+      "recommendations": [
+        "Prioritize rapid clinical assessment (e.g., fundal palpation, vital signs) and ultrasound to confirm/exclude inversion.",
+        "Exclude more common causes of postpartum pain/bleeding before finalizing the diagnosis.",
+        "Ensure clear communication with the patient about potential interventions and risks."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Ob/gyn Specialist",
+      "General surgeon Specialist",
+      "Hematologist Specialist"
+    ],
+    "processing_time": 47.51824688911438,
+    "case_id": 9892,
+    "timestamp": "2025-06-22T00:22:45.261361"
+  },
+  {
+    "question_id": "9903",
+    "final_decision": "{D}: {Exposure to carbamazepine}",
+    "correct_answer": "{D}: {Exposure to carbamazepine}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient's symptoms suggest a severe adverse reaction, possibly Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN), linked to carbamazepine exposure, requiring urgent intervention.",
+      "concerns": [
+        "Safety risk: Life-threatening condition (SJS/TEN) requiring immediate discontinuation of carbamazepine and supportive care.",
+        "Ethical issue: Ensuring informed consent for treatment alternatives given the patient's critical state and potential decisional incapacity.",
+        "Potential bias: Underestimating drug reaction severity due to delayed recognition or attribution to other causes (e.g., infection)."
+      ],
+      "recommendations": [
+        "Discontinue carbamazepine and initiate emergency protocols for SJS/TEN.",
+        "Consult dermatology/toxicology for confirmatory diagnosis and management.",
+        "Document thoroughly to avoid diagnostic anchoring bias.",
+        "Engage ethics committee if surrogate decision-making is needed."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Dermatologist Specialist",
+      "Infectious disease specialist Specialist",
+      "Critical care specialist Specialist"
+    ],
+    "processing_time": 51.02020788192749,
+    "case_id": 9903,
+    "timestamp": "2025-06-22T00:23:36.288759"
+  },
+  {
+    "question_id": "9919",
+    "final_decision": "{C}: {Great saphenous vein}",
+    "correct_answer": "{C}: {Great saphenous vein}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient's symptoms and history suggest a potential deep vein thrombosis (DVT) or other vascular complication, which requires prompt evaluation and management given his cancer history.",
+      "concerns": [
+        "Safety risk: Delay in diagnosis or treatment could lead to pulmonary embolism or other life-threatening complications.",
+        "Ethical issue: Ensuring the patient's autonomy and informed consent for any diagnostic or therapeutic procedures, especially given his cancer prognosis.",
+        "Potential bias: Assumptions about pain tolerance or symptom severity due to the patient's age or cancer history, which might lead to under-treatment."
+      ],
+      "recommendations": [
+        "Immediate imaging (e.g., Doppler ultrasound) to rule out DVT.",
+        "Clear communication with the patient about risks, benefits, and alternatives of proposed interventions.",
+        "Avoid stereotyping based on age or cancer status; assess symptoms objectively."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Vascular surgeon Specialist",
+      "Oncologist Specialist",
+      "Infectious disease specialist Specialist"
+    ],
+    "processing_time": 50.59790396690369,
+    "case_id": 9919,
+    "timestamp": "2025-06-22T00:24:26.889813"
+  },
+  {
+    "question_id": "9978",
+    "final_decision": "{E}: {Continue sertraline}",
+    "correct_answer": "{E}: {Continue sertraline}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The recommendation to continue sertraline is generally appropriate for treating depression, but requires careful monitoring for safety and ethical considerations.",
+      "concerns": [
+        "Safety risks include potential side effects of sertraline (e.g., GI upset, insomnia, or suicidal ideation in rare cases).",
+        "Ethical issues may arise if informed consent is not obtained or if patient autonomy is not respected in treatment decisions.",
+        "Potential biases could include over-reliance on medication without exploring psychosocial interventions or assuming patient compliance without discussion."
+      ],
+      "recommendations": [
+        "Monitor for side effects and suicidal ideation, especially in the early weeks of treatment.",
+        "Ensure the patient is fully informed about treatment options and consents to continuing sertraline.",
+        "Consider adjunct therapies (e.g., counseling) and assess for underlying psychosocial stressors."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Psychiatrist Specialist"
+    ],
+    "processing_time": 28.26081895828247,
+    "case_id": 9978,
+    "timestamp": "2025-06-22T00:24:55.153806"
+  },
+  {
+    "question_id": "10004",
+    "final_decision": "{A}: {Impairs bacterial degradation of piperacillin}",
+    "correct_answer": "{A}: {Impairs bacterial degradation of piperacillin}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The opinion regarding the impairment of bacterial degradation of piperacillin raises concerns about patient safety, ethical treatment, and potential biases.",
+      "concerns": [
+        "Safety risk: Potential adverse effects or reduced efficacy of piperacillin due to impaired bacterial degradation.",
+        "Ethical issue: Ensuring the patient's autonomy and informed consent regarding treatment options, especially given his age and residence in assisted living.",
+        "Potential bias: Possible age-related bias in assuming the patient's ability to metabolize or respond to treatment."
+      ],
+      "recommendations": [
+        "Conduct a thorough review of the patient's medical history and current condition to assess the appropriateness of piperacillin.",
+        "Engage the patient or his legal representative in a discussion about treatment options and potential risks.",
+        "Monitor for signs of adverse reactions or treatment failure closely."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Infectious disease specialist Specialist",
+      "Pulmonologist Specialist"
+    ],
+    "processing_time": 39.388142108917236,
+    "case_id": 10004,
+    "timestamp": "2025-06-22T00:25:34.547355"
+  },
+  {
+    "question_id": "10019",
+    "final_decision": "{E}: {Enveloped, diploid (+) ssRNA}",
+    "correct_answer": "{E}: {Enveloped, diploid (+) ssRNA}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The study involves measuring the effect of inhibitor X on HNF4alpha expression, but the opinion references an unrelated viral classification, raising concerns about clarity and relevance.",
+      "concerns": [
+        "Safety risks: Potential misuse of inhibitor X if not properly characterized.",
+        "Ethical issues: Lack of clarity on patient/sample sourcing and consent (if human-derived).",
+        "Potential biases: Unclear experimental design or confounding variables in expression measurement."
+      ],
+      "recommendations": [
+        "Clarify the relevance of the viral classification (E: Enveloped, diploid (+) ssRNA) to the study.",
+        "Ensure proper biosafety protocols for handling inhibitor X.",
+        "Document ethical approval and sample provenance if applicable.",
+        "Address potential biases through controlled experimental design."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Infectious disease specialist Specialist",
+      "Pathologist Specialist"
+    ],
+    "processing_time": 36.52386283874512,
+    "case_id": 10019,
+    "timestamp": "2025-06-22T00:26:11.075103"
+  },
+  {
+    "question_id": "10024",
+    "final_decision": "{D}: {Tyrosine}",
+    "correct_answer": "{D}: {Tyrosine}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "Tyrosine supplementation may not address the root cause of the patient's musculoskeletal pain and lacks strong evidence for this use.",
+      "concerns": [
+        "Safety risks: Potential side effects like gastrointestinal distress or interactions with other medications if not properly evaluated.",
+        "Ethical issues: Lack of clear informed consent if benefits and risks of tyrosine for musculoskeletal pain are not adequately explained.",
+        "Potential biases: Possible bias towards alternative treatments without sufficient evidence, overlooking conventional therapies like physical therapy or NSAIDs."
+      ],
+      "recommendations": [
+        "Conduct a thorough medical evaluation to identify the underlying cause of pain.",
+        "Discuss evidence-based treatment options first before considering tyrosine.",
+        "Ensure patient is fully informed about the lack of robust evidence for tyrosine in this context."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Rheumatologist Specialist",
+      "Endocrinologist Specialist",
+      "Orthopedic surgeon Specialist"
+    ],
+    "processing_time": 44.80490279197693,
+    "case_id": 10024,
+    "timestamp": "2025-06-22T00:26:55.881721"
+  },
+  {
+    "question_id": "10025",
+    "final_decision": "{B}: {Thenar atrophy}",
+    "correct_answer": "{B}: {Thenar atrophy}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The case involves a pregnant woman with symptoms suggestive of thenar atrophy, requiring careful evaluation to ensure maternal and fetal safety while addressing ethical considerations.",
+      "concerns": [
+        "Safety risks: Potential undiagnosed neurological or musculoskeletal conditions affecting pregnancy or delivery.",
+        "Ethical issues: Ensuring informed consent for diagnostic procedures, balancing maternal health with fetal well-being.",
+        "Potential biases: Underestimating symptoms due to pregnancy-related discomfort or gender bias in pain perception."
+      ],
+      "recommendations": [
+        "Conduct a thorough neurological examination and consider imaging if safe during pregnancy.",
+        "Discuss all diagnostic and treatment options with the patient, ensuring she understands risks and benefits.",
+        "Be mindful of implicit biases and ensure symptoms are not dismissed as pregnancy-related without proper evaluation."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Neurologist Specialist",
+      "Orthopedic surgeon Specialist"
+    ],
+    "processing_time": 37.166950941085815,
+    "case_id": 10025,
+    "timestamp": "2025-06-22T00:27:33.049381"
+  },
+  {
+    "question_id": "10068",
+    "final_decision": "{E}: {Acts as an antagonist at the dopamine, serotonin and adrenergic receptors}",
+    "correct_answer": "{B}: {Inhibition of inositol monophosphatase and inositol polyphosphate 1-phosphatase}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The patient presents with acute behavioral disturbances likely due to substance intoxication or psychiatric emergency, requiring immediate stabilization and ethical handling.",
+      "concerns": [
+        "Safety risks include potential self-harm, aggression, or medical complications from receptor antagonism.",
+        "Ethical issues involve ensuring patient dignity (exposure), capacity for consent, and appropriate restraint use if needed.",
+        "Potential biases may include assumptions about substance use vs. psychiatric illness based on demographics or presentation."
+      ],
+      "recommendations": [
+        "Prioritize medical stabilization and quiet environment to reduce agitation.",
+        "Use trauma-informed care (e.g., provide clothing, minimize restraints).",
+        "Screen for co-occurring conditions (e.g., infection, trauma) without diagnostic overshadowing."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Psychiatrist Specialist"
+    ],
+    "processing_time": 29.724401235580444,
+    "case_id": 10068,
+    "timestamp": "2025-06-22T00:28:02.775051"
+  },
+  {
+    "question_id": "10078",
+    "final_decision": "{C}: {Dietary aflatoxin exposure}",
+    "correct_answer": "{C}: {Dietary aflatoxin exposure}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient's symptoms and findings suggest possible dietary aflatoxin exposure, which poses significant health risks and requires urgent evaluation.",
+      "concerns": [
+        "Safety risks: Aflatoxin exposure can lead to severe liver damage, including hepatocellular carcinoma, and requires immediate intervention to prevent further harm.",
+        "Ethical issues: Ensuring the patient understands the potential causes and risks, and obtaining informed consent for any diagnostic or therapeutic procedures is critical.",
+        "Potential biases: There may be socioeconomic or regional biases in assuming dietary aflatoxin exposure without considering other possible causes of jaundice and weight loss."
+      ],
+      "recommendations": [
+        "Conduct thorough diagnostic testing to confirm aflatoxin exposure and rule out other causes.",
+        "Educate the patient on safe food storage and dietary practices to mitigate future exposure.",
+        "Address any socioeconomic factors that may limit the patient's access to safe food or healthcare."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Gastroenterologist Specialist",
+      "Oncologist Specialist",
+      "Hepatologist Specialist"
+    ],
+    "processing_time": 47.682621002197266,
+    "case_id": 10078,
+    "timestamp": "2025-06-22T00:28:50.460770"
+  },
+  {
+    "question_id": "10092",
+    "final_decision": "{E}: {Neglect}",
+    "correct_answer": "{E}: {Neglect}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The case involves a 5-year-old boy with intellectual disabilities who was struck by a car, raising concerns about neglect and safety.",
+      "concerns": [
+        "Safety risks: The child's unsupervised exposure to traffic indicates a severe safety lapse.",
+        "Ethical issues: Potential neglect and failure to provide adequate care for a vulnerable child.",
+        "Potential biases: Assumptions about the neighbor's reliability or the family's circumstances without full context."
+      ],
+      "recommendations": [
+        "Immediate medical and psychological evaluation of the child.",
+        "Investigation by child protective services to assess home environment and caregiver adequacy.",
+        "Avoid premature conclusions; gather more information from family and witnesses."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Pediatrician Specialist",
+      "Trauma surgeon Specialist",
+      "Psychiatrist Specialist"
+    ],
+    "processing_time": 39.359941244125366,
+    "case_id": 10092,
+    "timestamp": "2025-06-22T00:29:29.821980"
+  },
+  {
+    "question_id": "10096",
+    "final_decision": "{A}: {Tuberculin skin test}",
+    "correct_answer": "{E}: {Quantiferon testing}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The tuberculin skin test is generally safe but requires consideration of the patient's mental health status and potential ethical issues.",
+      "concerns": [
+        "Safety risk: Possible adverse reaction if the patient has a history of severe depression or suicidal ideation.",
+        "Ethical issue: Ensuring informed consent given the patient's mental health condition.",
+        "Potential bias: Assumption that the patient's depression does not affect their ability to understand or comply with the test."
+      ],
+      "recommendations": [
+        "Assess the patient's current mental state and ability to provide informed consent.",
+        "Monitor for any adverse psychological reactions post-test.",
+        "Provide clear, simplified instructions and follow-up support."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Psychiatrist Specialist"
+    ],
+    "processing_time": 26.539429187774658,
+    "case_id": 10096,
+    "timestamp": "2025-06-22T00:29:56.362160"
+  },
+  {
+    "question_id": "10111",
+    "final_decision": "{B}: {Hirschsprung disease}",
+    "correct_answer": "{E}: {Ventricular septal defect}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The case involves a 1-day-old male infant with dyspnea, with Hirschsprung disease as a potential diagnosis, raising safety, ethical, and bias concerns.",
+      "concerns": [
+        "Safety risks: Rapid deterioration due to undiagnosed Hirschsprung disease leading to enterocolitis or bowel perforation.",
+        "Ethical issues: Informed consent challenges given the infant's inability to participate; parental distress and decision-making under uncertainty.",
+        "Potential biases: Gender or racial biases in diagnosis or resource allocation, given the infant's male sex and potential demographic factors."
+      ],
+      "recommendations": [
+        "Ensure immediate diagnostic evaluation (e.g., contrast enema, rectal biopsy) to confirm Hirschsprung disease.",
+        "Provide clear, compassionate communication with parents about risks, benefits, and alternatives for interventions.",
+        "Audit diagnostic protocols to mitigate unconscious biases in evaluation and management."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Neonatologist Specialist",
+      "Pediatric cardiologist Specialist",
+      "Gastroenterologist Specialist",
+      "Pulmonologist Specialist",
+      "Ent specialist Specialist"
+    ],
+    "processing_time": 71.14512085914612,
+    "case_id": 10111,
+    "timestamp": "2025-06-22T00:31:07.510350"
+  },
+  {
+    "question_id": "10118",
+    "final_decision": "{B}: {Cohort study}",
+    "correct_answer": "{B}: {Cohort study }",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The cohort study design is appropriate for investigating carcinogenic effects, but significant safety, ethical, and bias concerns must be addressed.",
+      "concerns": [
+        "Safety risks: Potential harm to participants if the additive is carcinogenic.",
+        "Ethical issues: Informed consent must clearly communicate risks, and long-term monitoring may be burdensome.",
+        "Potential biases: Confounding variables (e.g., lifestyle factors) may skew results if not controlled."
+      ],
+      "recommendations": [
+        "Implement rigorous participant screening and exclusion criteria.",
+        "Ensure transparent informed consent with clear risk disclosure.",
+        "Use statistical adjustments or matched controls to minimize confounding biases."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Oncologist Specialist",
+      "Gastroenterologist Specialist"
+    ],
+    "processing_time": 34.595802307128906,
+    "case_id": 10118,
+    "timestamp": "2025-06-22T00:31:42.108960"
+  },
+  {
+    "question_id": "10120",
+    "final_decision": "{B}: {Cholecalciferol (D3)}",
+    "correct_answer": "{B}: {Cholecalciferol (D3)}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The statement is generally accurate but lacks context on supplementation and individual variability.",
+      "concerns": [
+        "Safety risks: Overexposure to sunlight can lead to skin damage or cancer, while excessive vitamin D supplementation can cause toxicity.",
+        "Ethical issues: Potential for oversimplification leading to health disparities if darker-skinned individuals are not adequately informed about alternative sources like diet or supplements.",
+        "Potential biases: Implicit bias in assuming sunlight is the primary solution without addressing systemic barriers to sun exposure or dietary access."
+      ],
+      "recommendations": [
+        "Clarify the role of diet and supplements for vitamin D adequacy, especially for darker-skinned populations.",
+        "Include warnings about risks of excessive sun exposure or supplementation.",
+        "Address socioeconomic factors affecting access to sunlight or fortified foods."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Endocrinologist Specialist",
+      "Dermatologist Specialist"
+    ],
+    "processing_time": 36.0349338054657,
+    "case_id": 10120,
+    "timestamp": "2025-06-22T00:32:18.144457"
+  },
+  {
+    "question_id": "10136",
+    "final_decision": "{C}: {\u2193 peripheral vascular resistance}",
+    "correct_answer": "{B}: {\u2191 peripheral vascular resistance}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The patient presents with serious symptoms (hematemesis and upper abdominal pain) that require immediate evaluation for life-threatening conditions such as gastrointestinal bleeding, peptic ulcer disease, or malignancy. The mention of '\u2193 peripheral vascular resistance' suggests potential hemodynamic instability, which must be addressed urgently.",
+      "concerns": [
+        "Safety risk: Delayed diagnosis or treatment could lead to hypovolemic shock or death.",
+        "Ethical issue: Ensuring informed consent for procedures (e.g., endoscopy) while balancing urgency.",
+        "Potential bias: Assuming smoking is the sole cause without ruling out other etiologies (e.g., NSAID use, H. pylori, varices)."
+      ],
+      "recommendations": [
+        "Prioritize ABCs (Airway, Breathing, Circulation) and stabilize the patient.",
+        "Obtain prompt gastroenterology consult for endoscopy.",
+        "Avoid anchoring bias\u2014assess for multiple risk factors (alcohol, medications, liver disease)."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Gastroenterologist Specialist",
+      "General surgeon Specialist"
+    ],
+    "processing_time": 39.082427740097046,
+    "case_id": 10136,
+    "timestamp": "2025-06-22T00:32:57.227662"
+  },
+  {
+    "question_id": "10141",
+    "final_decision": "{B}: {Autosomal dominant}",
+    "correct_answer": "{A}: {Autosomal recessive}",
+    "is_correct": false,
+    "ethics_review": {
+      "assessment": "The scenario involves a 6-year-old girl with a potential autosomal dominant condition, requiring careful evaluation of safety, ethics, and biases.",
+      "concerns": [
+        "Safety risks: Potential misdiagnosis or delayed diagnosis due to the child's age and communication limitations.",
+        "Ethical issues: Ensuring informed consent from parents while considering the child's best interests and future autonomy.",
+        "Potential biases: Parental or physician biases influencing the interpretation of symptoms or genetic testing decisions."
+      ],
+      "recommendations": [
+        "Ensure thorough and age-appropriate diagnostic procedures.",
+        "Provide comprehensive genetic counseling to the parents, including implications for the child and family.",
+        "Maintain neutrality and avoid assumptions based on parental or cultural biases."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Hematologist Specialist",
+      "Pediatrician Specialist"
+    ],
+    "processing_time": 36.041321992874146,
+    "case_id": 10141,
+    "timestamp": "2025-06-22T00:33:33.270579"
+  },
+  {
+    "question_id": "10144",
+    "final_decision": "{B}: {Pseudomonas keratitis}",
+    "correct_answer": "{B}: {Pseudomonas keratitis}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The diagnosis of Pseudomonas keratitis is plausible given the symptoms, but requires urgent confirmation and treatment to prevent vision loss.",
+      "concerns": [
+        "Safety risk: Delayed treatment could lead to corneal perforation or permanent vision impairment.",
+        "Ethical issue: Ensuring informed consent for diagnostic procedures (e.g., corneal scraping) and explaining risks of untreated infection.",
+        "Potential bias: Over-reliance on clinical suspicion without culture confirmation may lead to misdiagnosis."
+      ],
+      "recommendations": [
+        "Urgent referral to ophthalmology for slit-lamp exam and corneal cultures.",
+        "Empiric antibiotic therapy (e.g., topical fluoroquinolone) while awaiting results.",
+        "Document shared decision-making regarding treatment risks/benefits."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Ophthalmologist Specialist"
+    ],
+    "processing_time": 27.751052141189575,
+    "case_id": 10144,
+    "timestamp": "2025-06-22T00:34:01.023059"
+  },
+  {
+    "question_id": "10147",
+    "final_decision": "{C}: {Synaptophysin}",
+    "correct_answer": "{C}: {Synaptophysin}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The case involves a 31-year-old woman with concerning neurological symptoms, and the opinion suggests evaluating synaptophysin, which may indicate a neuroendocrine tumor. Safety, ethical, and bias considerations must be addressed.",
+      "concerns": [
+        "Safety risks: Potential delay in diagnosis if synaptophysin testing is not promptly prioritized given the patient's worsening symptoms.",
+        "Ethical issues: Ensuring informed consent for diagnostic procedures, especially if invasive testing is required.",
+        "Potential biases: Unconscious bias in assuming non-malignant causes due to the patient's age or gender, delaying appropriate workup."
+      ],
+      "recommendations": [
+        "Expedite diagnostic evaluation to rule out life-threatening conditions (e.g., brain tumor, increased intracranial pressure).",
+        "Ensure transparent communication with the patient about diagnostic options and risks.",
+        "Use objective criteria (e.g., imaging, lab results) to guide decision-making and mitigate bias."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Neurosurgeon Specialist",
+      "Neurologist Specialist",
+      "Ophthalmologist Specialist",
+      "Radiologist Specialist",
+      "Pathologist Specialist",
+      "Oncologist Specialist"
+    ],
+    "processing_time": 67.02232885360718,
+    "case_id": 10147,
+    "timestamp": "2025-06-22T00:35:08.047482"
+  },
+  {
+    "question_id": "10172",
+    "final_decision": "{A}: {Hypoalbuminemia}",
+    "correct_answer": "{A}: {Hypoalbuminemia}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The patient presents with symptoms suggestive of nephrotic syndrome, including hypoalbuminemia and frothy urine, which require prompt evaluation to rule out serious underlying conditions.",
+      "concerns": [
+        "Safety risk: Delayed diagnosis or treatment could lead to complications such as thromboembolism, infections, or worsening renal function.",
+        "Ethical issue: Ensuring informed consent for diagnostic procedures (e.g., kidney biopsy) and addressing potential health disparities in access to care.",
+        "Potential bias: Overlooking alternative diagnoses (e.g., heart failure, liver disease) due to anchoring on nephrotic syndrome."
+      ],
+      "recommendations": [
+        "Urgent lab work (urinalysis, serum albumin, renal function tests) and imaging to confirm diagnosis.",
+        "Discuss management options transparently with the patient, including risks/benefits of interventions.",
+        "Consider referral to a nephrologist for further evaluation."
+      ],
+      "approved": true
+    },
+    "rounds": 1,
+    "specialists": [
+      "Nephrologist Specialist",
+      "Endocrinologist Specialist"
+    ],
+    "processing_time": 37.47016215324402,
+    "case_id": 10172,
+    "timestamp": "2025-06-22T00:35:45.523521"
+  },
+  {
+    "question_id": "10176",
+    "final_decision": "{B}: {Acetaminophen}",
+    "correct_answer": "{B}: {Acetaminophen}",
+    "is_correct": true,
+    "ethics_review": {
+      "assessment": "The use of acetaminophen in a 2-week-old infant with a positive newborn screening result requires careful evaluation due to potential safety and ethical concerns.",
+      "concerns": [
+        "Safety risks: Acetaminophen may pose hepatotoxicity risks in neonates, especially if dosing is inaccurate or metabolic conditions (e.g., cystic fibrosis) are undiagnosed.",
+        "Ethical issues: Informed consent must address uncertainties in diagnosis and treatment risks, ensuring parents understand the rationale and alternatives.",
+        "Potential biases: Assumptions about parental health literacy or socioeconomic status could influence communication and decision-making."
+      ],
+      "recommendations": [
+        "Confirm diagnostic clarity (e.g., sweat test results) before proceeding with treatment.",
+        "Use weight-based dosing with explicit instructions to minimize overdose risk.",
+        "Provide culturally sensitive counseling to support informed consent."
+      ],
+      "approved": false
+    },
+    "rounds": 1,
+    "specialists": [
+      "Pulmonologist Specialist",
+      "Gastroenterologist Specialist",
+      "Nutritionist Specialist",
+      "Pediatrician Specialist",
+      "Neonatologist Specialist"
+    ],
+    "processing_time": 56.77582383155823,
+    "case_id": 10176,
+    "timestamp": "2025-06-22T00:36:42.302126"
+  }
+]
