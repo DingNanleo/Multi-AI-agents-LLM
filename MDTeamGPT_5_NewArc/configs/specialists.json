@@ -1,0 +1,5 @@
+{
+    "cardiologist": ["血压", "心脏", "心衰", "心肌梗死"],
+    "endocrinologist": ["血糖", "糖尿病", "胰岛素"],
+    "neurologist": ["脑", "神经", "癫痫"]
+}
